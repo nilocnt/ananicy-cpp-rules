@@ -1,5 +1,11 @@
+# Ananicy-cpp-rules
+This is an unofficial fork of ananicy-cpp and rules for CachyOS for Debian systems. All credits are given here:
+
+https://gitlab.com/ananicy-cpp/ananicy-cpp
+https://github.com/CachyOS/ananicy-rules
+
 # Ananicy-cpp-rules for CachyOS
-This is a ananicy-cpp-rules collection for ananicy-cpp maintained by the CachyOS team and the community https://github.com/CachyOS/ananicy-rules.
+This is a ananicy-cpp-rules collection for ananicy-cpp maintained by the CachyOS team and the community.
 
 ## Ananicy-cpp & ananicy-cpp-rules
 - **[ananicy-cpp](https://gitlab.com/ananicy-cpp/ananicy-cpp)** - daemon that automatically adjusts the nice levels of processes.
