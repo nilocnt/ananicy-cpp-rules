@@ -1,0 +1,7 @@
+#!/bin/sh
+set -e
+
+# Recarregando o daemon e ativando o serviço
+systemctl daemon-reload
+systemctl enable ananicy-cpp
+systemctl start ananicy-cpp
