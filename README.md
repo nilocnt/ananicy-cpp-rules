@@ -1,7 +1,7 @@
 # Ananicy-cpp-rules
 This is an unofficial fork of ananicy-cpp and rules for CachyOS for Debian systems. All credits are given here:
 
-https://gitlab.com/ananicy-cpp/ananicy-cpp 
+https://gitlab.com/ananicy-cpp/ananicy-cpp
 https://github.com/CachyOS/ananicy-rules
 
 # Ananicy-cpp-rules for CachyOS
